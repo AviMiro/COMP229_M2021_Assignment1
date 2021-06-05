@@ -1,10 +1,10 @@
 {
-  "name": "comp229-m2021-assignment1",
+  "name": "comp229-m2021-week4",
   "version": "0.0.2",
   "private": true,
-  "description": "COMP229 Assignment 1",
+  "description": "Demo Project for COMP229 - Week 4",
   "main": "index.js",
-  "repository": "https://github.com/AviMiro/COMP229-M2021-Assignment1.git",
+  "repository": "https://github.com/AviMiro/COMP229-M2021-Week4.git",
   "author": "Avi Miroshnikov <avimiroshnikov@gmail.com>",
   "license": "MIT",
   "scripts": {
